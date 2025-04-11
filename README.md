@@ -1,1 +1,1 @@
-# site-cost-management
+# 관수이앤씨 현장비용 관리 시스템
